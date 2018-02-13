@@ -1,0 +1,4 @@
+Process,Arrival Time,Burst Time
+1,0,5
+2,2,4
+3,3,2
